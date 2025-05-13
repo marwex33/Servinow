@@ -1,0 +1,16 @@
+CLIENTE
+-Usuario:aleprueba. Contraseña:1234.
+-Usuario:matiprueba. Contraseña:1234.
+-Usuario:agc. Contraseña:1234.
+-Usuario:Mati. Contraseña:1234.
+-Usuario:as. Contraseña:1234.
+-Usuario:JH. Contraseña:1234.
+-Usuario:martin44. Contraseña:1234.
+CONCESIONARIO
+-Usuario:Juan33. Contraseña:1234.
+-Usuario:LSaavedra. Contraseña:1234.
+-Usuario:FFraga. Contraseña:1234.
+-Usuario:PO. Contraseña:1234.
+-Usuario:RT. Contraseña:1234.
+ADMINISTRADOR
+-Usuario:ADMIN. Contraseña:1234.
